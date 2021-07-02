@@ -10,4 +10,5 @@ Assignments of  "introduction to machine learning" at University of Waterloo fal
 7. Implementation of Recurrent Neural Network for translation
 8. Implementation of Variational Auto-encoders
 9. Implementation of Generative Adverserial Networks
-10. 10.9. Implementation of Generative Adverserial Networks
+10.Implementation of Generative Adverserial Networks
+
