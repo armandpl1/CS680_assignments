@@ -11,3 +11,4 @@ Assignments of  "introduction to machine learning" at University of Waterloo fal
 8. Implementation of Variational Auto-encoders
 9. Implementation of Generative Adverserial Networks
 10. 10.9. Implementation of Generative Adverserial Networks
+11.
